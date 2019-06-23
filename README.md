@@ -6,7 +6,7 @@ Minesweeper is a simple game where you are given a 2D grid. Your job is to avoid
 
 ## Features
 - Play a new game.
-- Load previous game.
+- Load previous board.
 - Interact with grid using mouse.
 
 ## Run
